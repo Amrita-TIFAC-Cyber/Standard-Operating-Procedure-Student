@@ -1,0 +1,93 @@
+<p align="center">
+    <img src="https://raw.githubusercontent.com/Amrita-TIFAC-Cyber/CYS-RAM/refs/heads/main/Assets/AVV_TIFAC-CORE_in_Cyber_Security.png" alt ="Amrita TIFAC" width="700" />
+</p>
+
+# SOP for Course Evaluation
+
+| Reference Number | Amrita/CBE/TIFAC/2026-27/Course/Evaluation-01 |
+|:-----------------|:-----------------------------------------|
+| Dated            | 01 June 2026 |
+| W.E.F            | 17 June 2026 |
+
+## 1. Purpose 
+The purpose of this Standard Operating Procedure (SOP) is to establish a uniform framework for attendance recording, instructional hour requirements, continuous assessment, laboratory evaluation, and end-semester evaluation across all undergraduate and postgraduate courses offered. 
+
+## 2. Scope 
+This SOP applies to:
+ - All Courses
+ - Course Handling Faculty
+ - Supporting Faculty
+ - Subject Matter Experts (SMEs)
+ - Department Academic Affairs Committee (DAAC)
+ - Students Enrolled
+
+## 3. RACI Matrix
+
+# RACI Matrix – Evaluation and Attendance Policy
+
+| Activity                                            | Faculty | DAAC | Director | Exam Cell | Student |
+| --------------------------------------------------- | ------- | ---- | ---      | --------- | ------- |
+| Define and approve course evaluation plan           | R       | I    | I        | I         | I       |
+| Record and monitor attendance                       | R       | I    | I        | I         | I       |
+| Verify attendance eligibility (75%)                 | R       | I    | I        | I         | C       |
+| Conduct Continuous Assessments (CA)                 | R       | I    | I        | I         | C       |
+| Conduct Laboratory Evaluations (LE)                 | R       | I    | I        | I         | C       |
+| Publish Internal Assessment Marks                   | R       | I    | I        | I         | I       |
+| Schedule and conduct Missed-CA / Missed-LE          | R       | I    | I        | I         | C       |
+| Process medical absence requests                    | R       | I    | C        | I         | R       |
+| Conduct Mid-Term Examination (MTE)                  | R       | I    | I        | A         | C       |
+| Schedule and conduct End Semester Examination (ESE) | I       | I    | I        | A/R       | C       |
+| Maintain assessment records for audit               | R       | I    | I        | I         | I       |
+| Ensure policy compliance within department          | C       | R    | A        | I         | I       |
+
+###### R - Responsible; A - Accountable; C - Consulted; I - Informed 
+
+## 4. Standard Guidelines
+
+4.1. Attendance shall be recorded only for the prescribed **Instructional Hours (IH) / Lab Hours (LH)** based on Course Type (as recommended below). <br/>
+4.2. Examination, evaluation, viva voce, demonstrations, and other assessment activities shall not be counted towards attendance in MyAmrita but to be recorded in Physical for Auditing Purposes. <br/>
+4.3. One IH/LH shall be equivalent to **50 Minutes**. <br/>
+4.4. The Evaluation Pattern for _Continuous Assessments (CA) including Laboratory Evaluation (LE), Mid-Term Examination (MTE) and End Semester Examination (ESE)_ components for various course categories is presented in Table 2. <br/>
+4.5. Students shall satisfy the Minimum Attendance Requirement (**75%**) for each course as per University Examination Policy. <br/>
+4.6. _CA_ shall be conducted periodically before and after the _MTE_ as per the Academic Schedule announced by the University and approved by Department Academic Coordinator/DAAC. <br/>
+4.7. _MTE_ and _ESE_ shall be conducted as per the TimeTable notified by the University Examination Cell. <br/>
+4.8. In addition to the regular _CA_, excluding the Mid-Term Examination, a **Supplementary Continuous Assessment (SCA)** for theory components and a **Supplementary Lab Evaluation (SLE)** for laboratory components shall be conducted after announcing the results of CA-2/Lab Evaluation-2 but before the _ESE_. The portions and nature of _SCA/SLE_ shall be decided by the faculty and shall be announced two days before the test. <br/>
+4.9. Students who were absent for any _CA_ component due to medical reasons (must be approved) may be permitted to appear for _SCA_ or _SLE_. The marks obtained in the _SCA/SLE_ shall compulsorily replace the missed CA/LE component. <br/>
+4.10. Students who have attended all the prescribed _CA_ shall be permitted to appear only for the _SCA_ (not be eligible to appear for the _SLE_). In such cases, the marks obtained in the _SCA_ shall compulsorily replace the lowest marks obtained in CAs. The replaced marks shall be treated as final and shall not be discarded, even if the marks obtained in the Missed-CA are lower than the marks originally secured. <br/>
+4.11. For Theory–Lab Integrated courses, both the _MTE_ and _ESE_ shall include a _LE_ component, as specified in Table 2. <br/>
+4.12. The _LE_ may be conducted either on the same day as the theory examination scheduled by the Examination Cell or on any instructional/contact day prior to the commencement of the examination. Such arrangements shall be communicated before Course Committee Meeting-I, with due intimation to the Department Invigilation Coordinator. <br/>
+
+## Table 1: Instructional and Attendance Requirements
+
+|             Course Type     |  Credits  | Instructional Hours |
+|-----------------------------|-----------|---------------------|
+| Lab (L)                     | 1 Credit  |     30 LH           |
+| Theory (T)                  | 3 Credits |     45 TH           |
+| Theory/Tutorial + Lab (TL)  | 3 Credits |     30 TH + 30 LH   |
+| Theory/Tutorial + Lab (TL)  | 4 Credits |     45 TH + 30 LH   |
+
+##### TH - Theory Hours; LH - Lab Hours
+
+## Common Evaluation Pattern
+
+>[!NOTE]
+> This Guidelines shall be followed inline with **Amrita/CBE/TIFAC/2026-27/Course/LabConduct-01** for Lab-Integrated Theory and Lab-Only Courses
+
+### Table 2A: Internal Assessment Components
+
+| Component | TL Courses <br/> (4 & 3 Credits) | Theory Courses <br/> (3 Credits) | Lab Courses <br/> (1 Credit) |
+|-----------|----------------------------|----------------------------|------------------------|
+| CA-1 | 8 | 7 | — |
+| CA-2 (Theory) / Lab Evaluation-1 (TL) <br/> *(including viva voce)* | 7 | 8 | 20 |
+| Mid-Term Examination | 30 <br/> (20 Theory + 10 Lab)| 30 | 20 |
+| CA-3 | 8 | 7 | — |
+| CA-4 (Theory) / Lab Evaluation-2 (TL) <br/> *(including viva voce)* | 7 | 8 | 20 |
+| **Total Internal Assessment Marks** | **60** | **60** | **60** |
+
+### Table 2B: End Semester Evaluation
+
+| Component | TL Courses <br/> (4 & 3 Credits) | Theory Courses <br/> (3 Credits) | Lab Courses <br/> (1 Credit) |
+|-----------|----------------------------|----------------------------|------------------------|
+| End Semester Examination /  <br/> Lab Examination and Viva Voce | 40  <br/> (25 Theory + 15 Lab) | 40 | 40 |
+| **Total Marks** | **100** | **100** | **100** |
+
