@@ -7,9 +7,6 @@
 | Reference Number | Amrita/CBE/TIFAC/2026-27/CoC/Hackathon-01 |
 |:-----------------|:-----------------------------------------|
 | Dated            | 01 June 2026 |
-| Created By       | Mr. Ramaguru Radhakrishnan and Dr. Rohini M |
-| Reviewed By      | Prof. M. Sethumadhavan |
-| Approved By      | Prof. M. Sethumadhavan |
 | W.E.F            | 05 June 2026 |
 
 ## 1. Objective
