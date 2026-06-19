@@ -11,7 +11,7 @@
 
 
 ### 1.2 Project Management
-#### 1.2.1 [GitHub Usage Guidelines](sop/acad/GitHub)
+#### 1.2.1 [GitHub Usage Guidelines](sop/acad/gitHub)
 #### 1.2.2 [Publication Policy - Students](sop/acad/publication)
       
 ### 1.3 Student Performance & Readiness
