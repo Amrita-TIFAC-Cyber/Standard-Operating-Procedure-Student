@@ -34,7 +34,7 @@ The purpose of this Standard Operating Procedure (SOP) is to establish a uniform
 
 ### 4. Official Duty (OD) Leave
 
-Students are eligible for **Official Duty (OD) Leave** when participating in the following:
+Students are eligible for **Official Duty (OD) Leave** when participating in the following: <br/> 
 4.1 **National / International Technical Competitions** including Ideathon, Hackathon, Pentathon, Startup Competitions. <br/> 
 4.2 **Sports and Cultural events**, including those conducted within the University, and institution-wide activities such as **Gokulashtami, Amritotsavam**, etc. <br/> 
 4.3 **Club Activities officially recognized by the Office of Students Affiars (OSA)** <br/> 
