@@ -22,7 +22,7 @@ This SOP applies to:
 ## 3. RACI Matrix
 
 | Activity / Responsibility | Students / Teams | Guide / Mentor | Project Coordinator | GitHub Org Admin |
-|---|---|---|---|---|
+|---|:--:|:---:|:---:|:---:|
 | Create Project Repository and Provide Access | I | C | A | R |
 | Maintain Source Code | R | A | I | - |
 | Upload Reports & Deliverables | R | A | I | - |
@@ -36,26 +36,31 @@ This SOP applies to:
 
 ## 4. Standard Guidelines
 
+## 4.0 Links
+
+- [B.Tech Project](https://github.com/amrita-tifac-cys-btech)
+- [M.Tech Disseration](https://github.com/amrita-tifac-cys-mtech)
+
 ### 4.1 Repository Creation and Maintenance
 
-1. All B.Tech and M.Tech project work, including dissertations, shall be maintained in GitHub repositories.
+4.1.1. All B.Tech Project and M.Tech Dissertation work, including dissertations, shall be maintained in GitHub repositories.
 
-2. Student teams shall ensure timely and regular updates of project-related content in the repositories provided under the official GitHub Organization maintained by TIFAC-CORE in Cyber Security.
+4.1.2. Student teams shall ensure timely and regular updates of project-related content in the repositories provided under the official GitHub Organization maintained by TIFAC-CORE in Cyber Security.
 
 ### 4.2 Repository Access and Visibility
 
-3. All project repositories shall initially remain **private** and accessible only to:
+4.2.1. All project repositories shall initially remain **private** and accessible only to:
    - Concerned Student Team(s)
    - Assigned Guide/Mentor
    - GitHub Organization Administrators
 
-4. Repositories may be made **public** only after:
+4.2.2. Repositories may be made **public** only after:
    - Completion of the project requirements, and
    - Fulfillment of publication/IPR/paper submission requirements, if applicable.
 
 ### 4.3 Repository Contents
 
-5. The GitHub repository shall host all relevant project deliverables, including but not limited to:
+4.3.1. The GitHub repository shall host all relevant project deliverables, including but not limited to:
    - Source Code
    - Documentation
    - Presentation Slides
@@ -68,24 +73,28 @@ This SOP applies to:
 
 ### 4.4 Repository Usage Practices
 
-6. Students shall use GitHub in a structured and professional manner, including:
+4.4.1. Students shall use GitHub in a structured and professional manner, including:
    - Meaningful commit messages
    - Proper folder organization
    - Version tracking
    - README documentation
    - Timely backups and updates
 
-7. Guides/Mentors shall instruct and monitor student teams regarding proper GitHub usage and repository maintenance practices.
+> [!NOTE]
+> Guides/Mentors shall instruct and monitor student teams regarding proper GitHub usage and repository maintenance practices.
 
 ### 4.5 Review and Evaluation
 
-8. Project reviews, evaluations, and progress assessments shall be conducted only after the required deliverables are updated in the GitHub repository.
+4.5.1. Project reviews, evaluations, and progress assessments shall be conducted only after the required deliverables are updated in the GitHub repository.
 
-9. Students shall ensure that all materials required for review are uploaded prior to the scheduled evaluation.
+4.5.2. Students shall ensure that all materials required for review are uploaded prior to the scheduled evaluation.
 
-## 5. Compliance
+## 5. Non-Compliance
 
-Failure to maintain the repository properly or update deliverables on time may result in:
+5.1. Failure to maintain the repository properly or update deliverables on time may result in:
 - Delay in project reviews
 - Non-consideration for evaluation
 - Additional corrective actions as decided by the Project Coordinator/Department
+
+> [!Warning]
+> Project Coordinators shall not allow any Student and Team not adhering. 
