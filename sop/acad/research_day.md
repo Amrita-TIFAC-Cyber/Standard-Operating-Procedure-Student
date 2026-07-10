@@ -10,7 +10,6 @@
 | W.E.F            | 18 July 2026 |
 
 ## 1. Purpose
-
   1.1 Establish a structured framework for B. Tech project work from the V semester onwards. <br/>
   1.2 Promote research culture and continuous interaction with project supervisors. <br/>
   1.3 Encourage quality outcomes such as publications, patents, products, start-ups, or technology transfer. <br/>
@@ -27,27 +26,27 @@
   - Implementation
   - Experimentation
   - Documentation
-  - Discussions with Supervisors and Teammates
+  - Discussions with Project Guide and Teammates
 
 ## 3. Evaluation Scheme for Project Components (Third Year Students)
 
 3.1 **Attendance and Participation:** 40% of marks will be based on attendance during Working Saturday Research Sessions. <br/>
-3.2  **Project Progress:** 60% of project marks will be based on quality and progress assessed by the committee. <br/>
+3.2  **Project Progress:** 60% of project marks will be based on quality and progress assessed by the Project Review Panel (PRP). <br/>
 
 ## 4. Semester-wise Contribution to Final Project Evaluation
 
 | Semester | Contribution |
 |----------|--------------|
-| V  | 15 CA Marks carried forward from the total internal assessment of 60 marks in the VIII Semester |
-| VI  | 15 CA Marks carried forward from the total internal assessment of 60 marks in the VIII Semester |
-| VII  | Evaluation for 2 Project Credits as prescribed in the B.Tech Curriculum |
-| VIII  | Evaluation comprises 30 CA and 40 Final Review as prescribed in the B.Tech Curriculum |
+| V  | 15 CA Marks carried forward from the total CA of 60 marks in the VIII Semester |
+| VI  | 15 CA Marks carried forward from the total CA of 60 marks in the VIII Semester |
+| VII  | Evaluation for 2 Project Credits as prescribed in the B.Tech Project SOP |
+| VIII  | Evaluation comprises 30 CA and 40 Final Review as prescribed in the B.Tech Project SOP |
 
 ## 5. Semester-End Presentation
 
-5.1 Each project team shall present their work before the departmental evaluation committee at the end of every semester.
-5.2 Demonstrate completed work, technical contributions, and future plans.
-5.3 Implement recommendations provided by the evaluation committee.
+5.1 Each project team shall present their work before the PRP at the end of every semester. <br/>
+5.2 Demonstrate completed work, technical contributions, and future plans. <br/>
+5.3 Implement recommendations provided by the PRP. <br/>
 
 ## 6. Research Timeline and Expected Outcomes
 
@@ -63,7 +62,7 @@
 **Expected Outcome**
 
 - Clearly defined research problem with objectives and an initial literature survey.
-- **Technical Seminar Presentation:** A Technical Report of the Problem Statement with the Detailed understanding of the Literature Survey
+- **Technical Seminar Presentation:** A Technical Report of the Problem Statement with the Detailed understanding of the Literature Survey.
 
 ### 6.2 VI Semester
 
@@ -77,7 +76,7 @@
 **Expected Outcome**
 
 - Validated Methodology with an initial working implementation.
-- **Prototype displayed as part of PRISM - Project Expo** scheduled during Feb every year.
+- **Prototype displayed as part of PRISM - Project Expo** scheduled during February every year.
 
 ### 6.3 VII Semester
 
@@ -89,7 +88,7 @@
 
 **Expected Outcome**
 
-- Validated Experimental Results with comparison against existing methods.
+- **Validated Experimental Results** with comparison against existing methods.
 
 ### 6.4 VIII Semester
 
@@ -99,19 +98,19 @@
 
 **Expected Outcome (at least one)**
 
-- Research Publication
+- Research Publication (Conference or Journal)
 - Patent Filing
-- Prototype/product development
-- Start-up or Technology Transfer or Licencing or Commercialization
+- Product development
+- Start-up or Technology Transfer or Licencing for Commercialization
 - Open-source software/tool release
-- Industry deployment or technology demonstration
+- Industry Deployment or Technology Demonstration
 
 ## 7. Student Responsibilities
 
 7.1 Attend every Working Saturday Research Session. <br/>
-7.2 Maintain regular communication with project supervisors. <br/>
-7.3 Adhere to the prescribed research timeline. <br/>
-7.4 Maintain proper documentation of all research activities. <br/>
+7.2 Maintain regular communication with Project Guide. <br/>
+7.3 Adhere to the prescribed Research Timeline. <br/>
+7.4 Maintain proper documentation of all Research Activities in [GitHub Organization](https://github.com/amrita-tifac-cys-btech) as per the [SOP](https://amrita-tifac-cyber.github.io/Standard-Operating-Procedure-Student/sop/acad/github). <br/>
 7.5 Uphold academic integrity and avoid plagiarism. <br/>
 7.6 Meet all project milestones within the stipulated time. <br/>
 
