@@ -10,9 +10,10 @@
 #### 1.1.2 [Evaluation Pattern Guidelines](sop/acad/course_evaluation)
 
 
-### 1.2 Project Management
+### 1.2 Research & Project Management
 #### 1.2.1 [GitHub Usage Guidelines](sop/acad/github)
 #### 1.2.2 [Publication Policy - Students](sop/acad/publication)
+#### 1.2.2 [Research Day](sop/acad/research_day)
       
 ### 1.3 Student Performance & Readiness
 #### 1.3.1  [Cyber Security Readiness (CRI)](sop/acad/cri)
@@ -40,3 +41,4 @@
 #### 3.1.5 [CTF](sop/sc/ctf)
 #### 3.1.6 [VAPT Club](sop/sc/vapt)
     
+###### Last Updated: 10th July 12:02 
