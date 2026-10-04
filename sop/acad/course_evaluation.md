@@ -35,9 +35,9 @@ This SOP applies to:
 | Publish Internal Assessment Marks                   | R       | I    | I        | I         | I       |
 | Schedule and conduct Missed-CA / Missed-LE          | R       | I    | I        | I         | C       |
 | Process medical absence requests                    | R       | I    | C        | I         | R       |
-| Conduct Mid-Term Examination (MTE)                  | R       | I    | I        | A         | C       |
+| Conduct Mid-Term Examination (MTE)                  | R       | I    | I        | R         | I       |
 | Schedule and conduct End Semester Examination (ESE) | I       | I    | I        | A/R       | C       |
-| Maintain assessment records for audit               | R       | I    | I        | I         | I       |
+| Maintain assessment records for audit               | R       | C    | I        | I         | I       |
 | Ensure policy compliance within department          | C       | R    | A        | I         | I       |
 
 ###### R - Responsible; A - Accountable; C - Consulted; I - Informed 
@@ -45,17 +45,17 @@ This SOP applies to:
 ## 4. Standard Guidelines
 
 4.1. Attendance shall be recorded only for the prescribed **Instructional Hours (IH) / Lab Hours (LH)** based on Course Type (as recommended below). <br/>
-4.2. Examination, evaluation, viva voce, demonstrations, and other assessment activities shall not be counted towards attendance in MyAmrita but to be recorded in Physical for Auditing Purposes. <br/>
-4.3. One IH/LH shall be equivalent to **50 Minutes**. <br/>
-4.4. The Evaluation Pattern for _Continuous Assessments (CA) including Laboratory Evaluation (LE), Mid-Term Examination (MTE) and End Semester Examination (ESE)_ components for various course categories is presented in Table 2. <br/>
-4.5. Students shall satisfy the Minimum Attendance Requirement (**75%**) for each course as per University Examination Policy. <br/>
-4.6. _CA_ shall be conducted periodically before and after the _MTE_ as per the Academic Schedule announced by the University and approved by Department Academic Coordinator/DAAC. <br/>
-4.7. _MTE_ and _ESE_ shall be conducted as per the TimeTable notified by the University Examination Cell. <br/>
-4.8. In addition to the regular _CA_, excluding the Mid-Term Examination, a **Supplementary Continuous Assessment (SCA)** for theory components and a **Supplementary Lab Evaluation (SLE)** for laboratory components shall be conducted after announcing the results of CA-2/Lab Evaluation-2 but before the _ESE_. The portions and nature of _SCA/SLE_ shall be decided by the faculty and shall be announced two days before the test. <br/>
-4.9. Students who were absent for any _CA_ component due to medical reasons (must be approved) may be permitted to appear for _SCA_ or _SLE_. The marks obtained in the _SCA/SLE_ shall compulsorily replace the missed CA/LE component. <br/>
-4.10. Students who have attended all the prescribed _CA_ shall be permitted to appear only for the _SCA_ (not be eligible to appear for the _SLE_). In such cases, the marks obtained in the _SCA_ shall compulsorily replace the lowest marks obtained in CAs. The replaced marks shall be treated as final and shall not be discarded, even if the marks obtained in the Missed-CA are lower than the marks originally secured. <br/>
-4.11. For Theory–Lab Integrated courses, both the _MTE_ and _ESE_ shall include a _LE_ component, as specified in Table 2. <br/>
-4.12. The _LE_ may be conducted either on the same day as the theory examination scheduled by the Examination Cell or on any instructional/contact day prior to the commencement of the examination. Such arrangements shall be communicated before Course Committee Meeting-I, with due intimation to the Department Invigilation Coordinator. <br/>
+4.2. One IH/LH shall be equivalent to **50 Minutes**. <br/>
+4.3. The Evaluation Pattern for _Continuous Assessments (CA) including Laboratory Evaluation (LE), Mid-Term Examination (MTE) and End Semester Examination (ESE)_ components for various course categories is presented in Table 2. <br/>
+4.4. Students shall satisfy the Minimum Attendance Requirement (**75%**) for each course as per University Examination Policy. <br/>
+4.5. _CA_ shall be conducted periodically before and after the _MTE_ as per the Academic Schedule announced by the University and approved by Department Academic Coordinator/DAAC. <br/>
+4.6. _MTE_ and _ESE_ shall be conducted as per the TimeTable notified by the University Examination Cell. <br/>
+4.7. In addition to the regular _CA_, excluding the Mid-Term Examination, a **Supplementary Continuous Assessment (SCA)** for theory components and a **Supplementary Lab Evaluation (SLE)** for laboratory components shall be conducted after announcing the results of CA-2/Lab Evaluation-2 but before the _ESE_. The portions and nature of _SCA/SLE_ shall be decided by the faculty and shall be announced two days before the test. <br/>
+4.8. Students who were absent for any _CA_ component due to medical reasons (must be approved) may be permitted to appear for _SCA_ or _SLE_. The marks obtained in the _SCA/SLE_ shall compulsorily replace the missed CA/LE component. <br/>
+4.9. Students who have attended all the prescribed _CA_ shall be permitted to appear only for the _SCA_ (not be eligible to appear for the _SLE_). In such cases, the marks obtained in the _SCA_ shall compulsorily replace the lowest marks obtained in CAs. The replaced marks shall be treated as final and shall not be discarded, even if the marks obtained in the Missed-CA are lower than the marks originally secured. <br/>
+4.10. If a student misses Lab mid-term examination, the SLE marks will be used to replace the missed component. 
+4.11. For Theory–Lab Integrated courses, both the _MTE_ and _ESE_ shall include a _LE_ component, as specified in Table 2A. <br/>
+4.12. The _LE_ may be conducted either on the same day as the theory examination scheduled by the Examination Cell or on any instructional/contact day prior to the commencement of the examination. Such arrangements shall be communicated before _Course Committee Meeting-I_, with due intimation to the Department Invigilation Coordinator. <br/>
 
 ## Table 1: Instructional and Attendance Requirements
 
@@ -77,17 +77,20 @@ This SOP applies to:
 
 | Component | TL Courses <br/> (4 & 3 Credits) | Theory Courses <br/> (3 Credits) | Lab Courses <br/> (1 Credit) |
 |-----------|----------------------------|----------------------------|------------------------|
-| CA-1 | 8 | 7 | — |
-| CA-2 (Theory) / Lab Evaluation-1 (TL) <br/> *(including viva voce)* | 7 | 8 | 20 |
-| Mid-Term Examination | 30 <br/> (20 Theory + 10 Lab)| 30 | 20 |
-| CA-3 | 8 | 7 | — |
-| CA-4 (Theory) / Lab Evaluation-2 (TL) <br/> *(including viva voce)* | 7 | 8 | 20 |
+| CA-1 (Quiz) | 5 | 7 | — |
+| CA-2 (Theory) / Lab Evaluation-1 (5 Labs) <br/> *(including viva voce & Submissions)* | 5  | 8 | 20 |
+| Mid-Term Examination (Lab) | 10 | - | - |
+| Mid-Term Examination (Theory) | 20 | 30 | 20 |    
+| CA-3 (Quiz) | 5 | 7 | — |
+| CA-4 Theory) / Lab Evaluation-2 (5 Labs) <br/> *(including viva voce & Submissions)* | 5 | 8 | 20 |
+| CA-5 (Lab Evaluation) <br/> *(including viva voce)* | 10 | - | - |
 | **Total Internal Assessment Marks** | **60** | **60** | **60** |
 
 ### Table 2B: End Semester Evaluation
 
 | Component | TL Courses <br/> (4 & 3 Credits) | Theory Courses <br/> (3 Credits) | Lab Courses <br/> (1 Credit) |
 |-----------|----------------------------|----------------------------|------------------------|
-| End Semester Examination /  <br/> Lab Examination and Viva Voce | 40  <br/> (25 Theory + 15 Lab) | 40 | 40 |
+| End Semester Examination /  <br/> Lab Examination and Viva Voce | 40 | 40 | 40 |
 | **Total Marks** | **100** | **100** | **100** |
 
+###### Last Updated: 04th October 2026
